@@ -1,0 +1,45 @@
+Box modelling per stanza e tavolo e cassetti
+- curve per maniglie di cassetti
+
+- maniglia porta wc e indicatore -> box modelling
+- gabinetto -> boolean operator, box modelling, curve (tubi)
+- urinatoio -> box modelling, editing proporzionale, blueprint (per tubi), wireframe modifier (scarico)
+- asciugatore -> box modelling, boolean (per cavita inferiore e superiore)
+- lavandino -> blueprint per forma, boolean per scavo interno e scarico, curve per rubinetto convertito poi in mesh
+		editing proporzionale per forma schiacciata regolatori del rubinetto 
+
+- fare sapone in bottiglia (per spin editing)
+- dispenser sapone
+- scopa (per hair)
+- cestino per surface
+- duplicare i lavandini e booleano applicato sul copritavolo per mettere scavo dei lavandini
+- bacinella per skin (nurmbs surface)
+
+to do:
+SCARICO BAGNO!!!!!!!
+
+
+
+--- TEXTURING
+
+Pavimento:
+- brick texture
+- bump map per dare effetto 3d
+- nodo add e divide con il multiply -> riflesso nel pavimento
+
+Battiscopa:
+- materiale ceramico
+
+Muro_1:
+- Per brick si usa Texture Coordinates > UV in modo che la brick texture si adatti all'uv
+
+Asciugatore:
+- materiale plastico (vari colori), ferro per bottone
+
+Specchio
+
+Dispenser : 
+
+ fare parete -> in due parti, una muro con piastrelle e una con materiale non piastrellato
+ materiale lavandino e urinatoi
+ lampade (emissione) e prima illuminazione

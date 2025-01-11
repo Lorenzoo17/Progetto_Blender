@@ -15,23 +15,21 @@ Box modelling per stanza e tavolo e cassetti
 - duplicare i lavandini e booleano applicato sul copritavolo per mettere scavo dei lavandini
 - bacinella per skin (nurmbs surface)
 
-to do:
-SCARICO BAGNO!!!!!!!
-
-
-
 --- TEXTURING
 
 Pavimento:
 - brick texture
 - bump map per dare effetto 3d
 - nodo add e divide con il multiply -> riflesso nel pavimento
+Pavimento displacement:
+- brick texture e displacement con cycles e experimental
 
 Battiscopa:
 - materiale ceramico
 
 Muro_1:
 - Per brick si usa Texture Coordinates > UV in modo che la brick texture si adatti all'uv
+- bump texture per effetto 3d con brick
 
 Asciugatore:
 - materiale plastico (vari colori), ferro per bottone

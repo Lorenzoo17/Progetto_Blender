@@ -36,11 +36,13 @@ Muro_1:
 
 Tavolo:
 - Materiale con normal map per simulare corrosione
-- cassetti con materiale plastico, decidere il colore
+- cassetti con stesso materiale (oppure materiale plastico? decidere il colore)
 
 Specchio
 - Materiale con roughness map per simulare sporco/macchie nello specchio
 
+Lampada soffitto
+- Materiale che emette
 
 
 Asciugatore:

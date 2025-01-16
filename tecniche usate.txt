@@ -44,6 +44,10 @@ Specchio
 Lampada soffitto
 - Materiale che emette
 
+Finestra
+- HDRI image per ambiente
+- finestra con vetro che mostra fuori e in parte riflette interno (glossy material)
+
 
 Asciugatore:
 - materiale plastico (vari colori), ferro per bottone

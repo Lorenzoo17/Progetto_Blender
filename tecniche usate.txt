@@ -48,6 +48,8 @@ Finestra
 - HDRI image per ambiente
 - finestra con vetro che mostra fuori e in parte riflette interno (glossy material)
 
+Lavandino:
+- acqua con fisica
 
 Asciugatore:
 - materiale plastico (vari colori), ferro per bottone

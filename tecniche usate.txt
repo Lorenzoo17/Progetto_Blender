@@ -8,11 +8,17 @@ Box modelling per stanza e tavolo e cassetti
 - lavandino -> blueprint per forma, boolean per scavo interno e scarico, curve per rubinetto convertito poi in mesh
 		editing proporzionale per forma schiacciata regolatori del rubinetto 
 
-- fare sapone in bottiglia (per spin editing)
-- dispenser sapone
+- sapone in bottiglia (per spin editing e proportional editing per contenuto)
 - scopa (per hair)
+- macchie : lattice
+- topo : sculpting
+- Cestino : dupliverts
+
+- parenting alcuni ancora da fare molti fatti
+
+
+- dispenser sapone
 - cestino per surface
-- duplicare i lavandini e booleano applicato sul copritavolo per mettere scavo dei lavandini
 - bacinella per skin (nurmbs surface)
 
 --- TEXTURING
@@ -50,13 +56,25 @@ Finestra
 
 Lavandino:
 - acqua con fisica
+- materiale ferro
+- materiale marmo
 
 Asciugatore:
 - materiale plastico (vari colori), ferro per bottone
 
+Scopa:
+- materiale legno
+
 Specchio
 
+Luci:
+- materiale emissivo
+
 Dispenser : 
+Materiale plastico trasparente
+
+Robot:
+- Altro materiale plastico e ferro
 
  fare parete -> in due parti, una muro con piastrelle e una con materiale non piastrellato
  materiale lavandino e urinatoi
